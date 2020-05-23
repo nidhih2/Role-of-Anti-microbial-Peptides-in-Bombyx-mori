@@ -2,9 +2,9 @@
 
 1) Comprehensive Literature Review: 
 - Obtained 35 AMPs, categorized them into 7 families. Extracted information from CAMP, APD3 and Pfam 
-CAMP: http://www.camp.bicnirrh.res.in
-APD3: http://aps.unmc.edu/AP/main.php
-Pfam: https://pfam.xfam.org
+- CAMP: http://www.camp.bicnirrh.res.in
+- APD3: http://aps.unmc.edu/AP/main.php
+- Pfam: https://pfam.xfam.org
 
 2) PRIMARY SEQUENCE ANALYSIS
 
